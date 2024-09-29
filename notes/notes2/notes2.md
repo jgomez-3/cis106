@@ -32,11 +32,11 @@
    1. Debian is an all-volunteer organization that is dedication to creating and developing free software(Began in 1993).
 
 9.  ## List and define the different types of licensing agreements
-   1.  **Open Source:** the software is allowed to be distributed for a fee or free. Source code is distributed alongside the software.
-   2.  **Closed Source:** the software cannot be distributed with the source code. The user is prohibited from modifying or changing the code.
+    1.  **Open Source:** the software is allowed to be distributed for a fee or free. Source code is distributed alongside the software.
+    2. **Closed Source:** the software cannot be distributed with the source code. The user is prohibited from modifying or changing the code.
        1.  **Freeware:** the software is free, but the source code is not available.
        2.  **Shareware:** the software is free on a trial basis.
-   3. **Free Software:** the software is distributed with the source code. It can be free or acquired through a fee.
+    3.  **Free Software:** the software is distributed with the source code. It can be free or acquired through a fee.
 
 10. ## What is Free Software? Define the 4 freedoms.
     1.  Free Software is a software that is distributed with the source code and is acquired through a fee or for free.
