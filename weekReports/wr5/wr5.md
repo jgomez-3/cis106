@@ -8,6 +8,7 @@
 
 ## Practice 3
 ![practice 3](p3.png)
+![practice 3.1](p3.1.png)
 
 ## Practice 4
 ![practice 4](p4.png)
