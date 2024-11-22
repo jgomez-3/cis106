@@ -114,11 +114,18 @@
     * `diff cars.csv cars-backup.csv`
   * Display the difference between two files in a column format.
     * `diff -y cars.csv cars-backup.csv`
+  * Treats all files as text.
+    * `diff -a cars.csv cars-backup.csv`
 
 ## grep
 * **Definition**
-  * 
+  * Used to search text in a given file.
 * **Formula**
-  * 
+  * `grep` + `option` + `search criteria` + `file(s)`
 * **Examples**
-  * 
+  * Search any line that contains the word 'dinosaur' in the given file.
+    * ` grep 'dinosaur' ~/Documents/jurassicpark.txt`
+  * Search any line that contains the word 'spinosaurus' regardless of the case.
+    * `grep -i 'spinosaurus' ~/Documents/Movies/jurassicpark3.txt`
+  * Search any line that contains the word 'velociraptor' regardless of case and with number line.
+    * `grep -in 'velociraptor' ~/Documents/Movies/jurassicpark1.txt`
